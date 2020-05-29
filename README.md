@@ -82,8 +82,19 @@ This is not wholly the product I intended to create, but I have built a modular 
 
 ### REFERENCES
 ======
-https://wewalk.io/en/
-https://www.smithsonianmag.com/innovation/smart-cane-helps-blind-people-navigate-180973279/
-https://gamerant.com/pokemon-go-gps-drift-problem/
-https://what3words.com/about-us/
-https://www.amazon.co.uk/WIRELESS-VISITOR-ENTRY-Magnet-Contact/dp/B06X94RWWF
+
+WeWALK (2020) *WeWALK Smart Cane For Visually Impaired and Blind People* [online]. [Accessed 11 May 2020].
+Available at: <https://wewalk.io/en/>.
+
+Matchar, E. (2019) *This Smart Cane Helps Blind People Navigate | Innovation | Smithsonian Magazine* [online]. [Accessed 11 May 2020].
+Available at: <https://www.smithsonianmag.com/innovation/smart-cane-helps-blind-people-navigate-180973279/>.
+
+Henry, J. (2017) *Pokemon GO Players Say GPS Drifting is Still a Huge Problem* [online]. [Accessed 11 May 2020].
+Available at: <https://gamerant.com/pokemon-go-gps-drift-problem/>.
+
+what3words (2020) *About | what3words* [online]. [Accessed 11 May 2020].
+Available at: <https://what3words.com/about-us/>.
+
+Amazon.co.uk (2020) *A4C WIRELESS SHOP VISITOR BELL Door ENTRY Magnet Contact Alert CHIME ALARM 100M: Amazon.co.uk: DIY & Tools* [online]. [Accessed 11 May 2020].
+Available at: <https://www.amazon.co.uk/WIRELESS-VISITOR-ENTRY-Magnet-Contact/dp/B06X94RWWF>.
+
